@@ -18,6 +18,5 @@ O projeto representa uma aplicação de carrinho de compras, onde o mesmo, foi p
 - possui contador;
 - botões de adicionar ou remover item.
 
-
-<h2 font-family="pattaya">Link da página</h2><br>
+<br><h2 font-family="pattaya">Link da página</h2><br>
 <a href="" font-family="robotto" font-size="16px">Carrinho de Compras</a>
